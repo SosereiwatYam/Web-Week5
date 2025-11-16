@@ -230,7 +230,6 @@ td {
     background: #8b5cf6; 
 }
 
-/* Improved Responsive Design */
 @media (max-width: 1024px) {
     .container {
         grid-template-columns: 180px 1fr;
